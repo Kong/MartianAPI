@@ -103,7 +103,7 @@ resources:
     modified: 1650545489247
     created: 1650545489247
     url: "{{ base_url }}/dinosaurs"
-    name: List all Dinosaurs
+    name: List all Kitties
     description: ""
     method: GET
     body: {}
